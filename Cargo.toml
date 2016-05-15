@@ -12,5 +12,7 @@ name = "rust-du"
 
 [dependencies]
 getopts = "0.2"
+
+[dev-dependencies]
 tempdir = "0.3"
 rand = "0.3"
